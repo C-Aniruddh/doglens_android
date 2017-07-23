@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "658157107076",
+    "firebase_url": "https://dog-lens.firebaseio.com",
+    "project_id": "dog-lens",
+    "storage_bucket": "dog-lens.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658157107076:android:274c0261e9054908",
+        "android_client_info": {
+          "package_name": "com.achandratre.doglens"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658157107076-5399omtful61aiqd8j4hhea1ve184psl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPIp7eOcHbT1FBWZ716q4tUqlRw64tfso"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
